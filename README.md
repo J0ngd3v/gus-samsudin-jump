@@ -1,1 +1,1 @@
-"# ghonge1337.github.io" 
+Membuat remake game Dino Chrome menjadi karakter Gus samsudin beserta efect lagu lompat nya
